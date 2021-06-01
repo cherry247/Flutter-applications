@@ -1,5 +1,5 @@
 # Flutter-applications
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/cherry247/Flutter-applications)
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/cherry247/Flutter-applications/contributors)
 
 In this repository, I have uploaded flutter applications which are beneficial for beginners.🎆
 
