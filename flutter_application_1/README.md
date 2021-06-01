@@ -1,7 +1,11 @@
 # flutter_application_1
 
 A flutter project for creating a basic hello world application. 
-![alt text](https://github.com/cherry247/Flutter-applications/blob/master/screenshots/Capture.PNG)
+| First Header  | Second Header |
+| ------------- | ------------- |
+| ![alt text](https://github.com/cherry247/Flutter-applications/blob/master/screenshots/Capture.PNG) | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 
 ## Getting Started
