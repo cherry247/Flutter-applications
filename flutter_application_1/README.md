@@ -14,7 +14,7 @@ In this project you will learn
 
 
 #### Reference
-![Alt](/wp.png "Title") [link](https://github.com/PacktPublishing/Flutter-Projects)
+[link](https://github.com/PacktPublishing/Flutter-Projects)
 [book](https://books.google.ru/books?id=junbDwAAQBAJ&pg=PP1&lpg=PP1&dq=Flutter+Projects:+A+Practical,+Project-based+Guide+to+Building+Real-world+Cross-platform+Mobile+Applications+and+Games+Simone+Alessandria&source=bl&ots=zu2Op7wzJM&sig=ACfU3U03QyWZyUJWoKUGWA-y420n9N_vsw&hl=en&sa=X&ved=2ahUKEwjBlZGZ5vXwAhXlsYsKHVCAA7IQ6AEwBnoECBUQAw#v=onepage&q&f=false)
 
 
