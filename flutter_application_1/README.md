@@ -13,6 +13,11 @@ In this project you will learn
 >* finally, you will create an AleartDialog widget in order to give feedback to the user
 
 
+#### Reference
+![Alt](/wp.png "Title") [link](https://github.com/PacktPublishing/Flutter-Projects)
+[book](https://books.google.ru/books?id=junbDwAAQBAJ&pg=PP1&lpg=PP1&dq=Flutter+Projects:+A+Practical,+Project-based+Guide+to+Building+Real-world+Cross-platform+Mobile+Applications+and+Games+Simone+Alessandria&source=bl&ots=zu2Op7wzJM&sig=ACfU3U03QyWZyUJWoKUGWA-y420n9N_vsw&hl=en&sa=X&ved=2ahUKEwjBlZGZ5vXwAhXlsYsKHVCAA7IQ6AEwBnoECBUQAw#v=onepage&q&f=false)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
