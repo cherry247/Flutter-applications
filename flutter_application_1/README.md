@@ -5,7 +5,12 @@ A flutter project for creating a basic hello world application.
 | ------------- | ------------- |
 | <img src="https://github.com/cherry247/Flutter-applications/blob/master/screenshots/Capture.PNG" width="200" height="300"/> | <img src="https://github.com/cherry247/Flutter-applications/blob/master/screenshots/Capture1.PNG" width="300" height="200"/> |
 
+In this project you will learn 
 
+>* how to create a flutter app
+>* how to use widgets like Center, Text, MaterialApp,Scaffold,Image and RaisedButton
+>* how to style your app by choosung colors and sizing fonts
+>* finally, you will create an AleartDialog widget in order to give feedback to the user
 
 
 ## Getting Started
