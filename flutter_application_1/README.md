@@ -1,7 +1,7 @@
 # flutter_application_1
 
 A flutter project for creating a basic hello world application. 
-| First Header  | Second Header |
+
 | ------------- | ------------- |
 | <img src="https://github.com/cherry247/Flutter-applications/blob/master/screenshots/Capture.PNG" width="200" height="300"/> | <img src="https://github.com/cherry247/Flutter-applications/blob/master/screenshots/Capture1.PNG" width="300" height="200"/> |
 
