@@ -3,7 +3,7 @@
 A flutter project for creating a basic hello world application. 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| ![alt text](https://github.com/cherry247/Flutter-applications/blob/master/screenshots/Capture.PNG | width=50 ) | Content Cell  |
+| ![alt text](https://github.com/cherry247/Flutter-applications/blob/master/screenshots/Capture.PNG=250x250 ) | Content Cell  |
 | Content Cell  | Content Cell  |
 
 
