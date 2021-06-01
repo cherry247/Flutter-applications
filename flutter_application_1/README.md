@@ -1,6 +1,8 @@
 # flutter_application_1
 
-A new Flutter project.
+A flutter project for creating a basic hello world application. 
+![alt text](https://github.com/cherry247/Flutter-applications/blob/master/screenshots/Capture.PNG)
+
 
 ## Getting Started
 
